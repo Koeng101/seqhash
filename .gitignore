@@ -1,0 +1,4 @@
+venv
+seqhash.egg-info
+build
+dist
