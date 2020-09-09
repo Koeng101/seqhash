@@ -1,2 +1,4 @@
 # Python Seqhash
-This repo holds the simple seqhash algorith implemented in python. Built for integration in different applications.
+This repo holds the official seqhash algorithm implemented in Python. 
+
+
