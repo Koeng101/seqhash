@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="seqhash", # Replace with your own username
-    version="0.0.2",
+    version="1.0.0",
     author="Keoni Gandall",
     author_email="koeng101@gmail.com",
     description="The seqhash algorithm implemented in python",
